@@ -1,0 +1,7 @@
+server:
+  service:
+    - name: gst.server
+      ip: 127.0.0.1
+      port: 1935
+      network: tcp
+      protocol: rtmp
